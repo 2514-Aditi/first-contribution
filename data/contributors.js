@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Aditi Nadiger",
+    branch: "Artificial Intelligence and Machine learning",
+    college: "SDM College of Engineering and Technology",
+    year: 2026, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/aditi-nadiger-6a6026265/",
+    github: "https://github.com/2514-Aditi",
+    gender: "Female",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",

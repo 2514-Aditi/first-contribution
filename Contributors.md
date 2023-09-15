@@ -1,5 +1,5 @@
 # Contributors
-
+- [Aditi Nadiger](https://github.com/2514-Aditi)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
